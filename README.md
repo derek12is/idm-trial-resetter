@@ -19,12 +19,12 @@ You are done!
 To sum up, the process of resetting the trial period of Internet Download Manager using the Resetter is very simple. This tool is constantly updated so you can always be sure that the same is working with the latest Internet Download Manager version.
 
 Premium Advantages
-Below are some advantages you will get using the IDM Trial Resetter.
 ##
-Use the full version of Internet Download Manager without cracking.
-You will not need to enter any license keys.
-All IDM premium features will be unlocked for a lifetime.
-It is completely free!
-License
-MIT License.
+Below are some advantages you will get using the IDM Trial Resetter.
+- Use the full version of Internet Download Manager without cracking.
+- You will not need to enter any license keys.
+- All IDM premium features will be unlocked for a lifetime.
+- It is completely free!
+- License
+- MIT License.
 ##
