@@ -29,4 +29,4 @@ Below are some advantages you will get using the IDM Trial Resetter.
 
 ## License
 
-[MIT](LICENSE) License.
+MIT License.
