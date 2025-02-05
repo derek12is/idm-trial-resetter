@@ -25,6 +25,8 @@ Below are some advantages you will get using the IDM Trial Resetter.
 - You will not need to enter any license keys.
 - All IDM premium features will be unlocked for a lifetime.
 - It is completely free!
-- License
-- MIT License.
 ##
+
+## License
+
+[MIT](LICENSE) License.
